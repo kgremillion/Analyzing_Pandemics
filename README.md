@@ -10,3 +10,4 @@ API from the WOrld Health Organization showing the global pandemic over the year
 
 Supplimental Data:
 * https://www.cdc.gov/flu/weekly/#VirusCharacterization
+* https://gis.cdc.gov/grasp/fluview/Novel_Influenza.html
