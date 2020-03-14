@@ -7,3 +7,5 @@ ITC calcualtions based on the UN COMTRADE and ITC International trade center
 API from the WOrld Health Organization showing the global pandemic over the years.
 
 **Main Data Source: http://apps.who.int/flumart/Default?ReportNo=12**
+Supplimental Data:
+* https://www.cdc.gov/flu/weekly/#VirusCharacterization
