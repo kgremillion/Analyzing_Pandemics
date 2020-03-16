@@ -21,6 +21,15 @@ Bolivia, French Guiana, Guadeloupe, Jamaica, Guatemala, Martinique, Panama, Nica
 The remaining 15 countries represent 99% of the cases reported of H1 and H1N1 during the period of the analysis. 
 
 
+### Weather Analysis 
+
+One question we asked as we began to analyze the spread of H1N1 is "does the weather contribute to the spread of an outbreak?"
+
+To analyze this, we broke up the data into three different sets: North America, Central America, and South America. The data was collected by finding the latitude and longitude boundaries per each region then generating a list of random cities within these boundaries and pulling the weather data from these cities.
+
+We analyzed three parts of the weather: humidity, temperature, & wind speed. After analyzing weather data, we will cross reference the trends for the H1N1 pandemic outbreak and observe if there are correlations between the outbreak and weather patterns.
+
+To pull this weather data, we used https://openweathermap.org/api
 
 Supplimental Data:
 * https://www.cdc.gov/flu/weekly/#VirusCharacterization
