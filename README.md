@@ -29,6 +29,8 @@ To analyze this, we broke up the data into three different sets: North America, 
 
 We analyzed three parts of the weather: humidity, temperature, & wind speed. After analyzing weather data, we will cross reference the trends for the H1N1 pandemic outbreak and observe if there are correlations between the outbreak and weather patterns.
 
+The weather data we collected was pulled from 2020 because the free API would only allow that. However, we analyzed ![another data base](https://www.climate.gov/maps-data/data-snapshots/averagetemp-monthly-cmb-2009-08-00?theme=Temperature) that 
+
 To pull this weather data, we used https://openweathermap.org/api
 
 Supplimental Data:
