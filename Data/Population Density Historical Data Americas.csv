@@ -1,19 +1,16 @@
-﻿Country Name,Country Code,Indicator Name,Indicator Code,2008,2009,2010,2011,Classification of Population
+﻿Country ,Country Code,Indicator Name,Indicator Code,2008,2009,2010,2011,Classification of Population
 Cuba,CUB,Population density (people per sq. km of land area),EN.POP.DNST,105.5709414,105.4745303,105.4662909,105.150241,High
 Costa Rica,CRI,Population density (people per sq. km of land area),EN.POP.DNST,87.40942029,88.53779867,89.64704269,90.73807286,High
 Honduras,HND,Population density (people per sq. km of land area),EN.POP.DNST,71.32858164,72.84632228,74.3361337,75.79471803,High
 Ecuador,ECU,Population density (people per sq. km of land area),EN.POP.DNST,58.52689241,59.48793687,60.4409607,61.37817281,High
 Mexico,MEX,Population density (people per sq. km of land area),EN.POP.DNST,57.00520641,57.85328172,58.69130533,59.51566295,High
-World,WLD,Population density (people per sq. km of land area),EN.POP.DNST,53.06549226,53.71560633,54.36133256,54.99762501,High
 Panama,PAN,Population density (people per sq. km of land area),EN.POP.DNST,47.29895077,48.14655636,49.0003632,49.85852838,Medium
-Upper middle income,UMC,Population density (people per sq. km of land area),EN.POP.DNST,42.16457306,42.4754348,42.78453182,43.10571954,Medium
 Colombia,COL,Population density (people per sq. km of land area),EN.POP.DNST,39.88731411,40.33353222,40.75953132,41.15646598,Medium
 United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,33.24368685,33.53639923,33.81566442,34.06206439,Medium
 Brazil,BRA,Population density (people per sq. km of land area),EN.POP.DNST,22.97525071,23.19732716,23.41593165,23.63139813,Medium
 Chile,CHL,Population density (people per sq. km of land area),EN.POP.DNST,22.47147036,22.71077141,22.94795017,23.17798733,Medium
 Peru,PER,Population density (people per sq. km of land area),EN.POP.DNST,22.31431016,22.49426172,22.67787031,22.86274844,Medium
 Uruguay,URY,Population density (people per sq. km of land area),EN.POP.DNST,19.08479602,19.13881842,19.19366358,19.24885156,Low
-Caribbean small states,CSS,Population density (people per sq. km of land area),EN.POP.DNST,16.99142398,17.10621712,17.22417192,17.34565148,Low
 Paraguay,PRY,Population density (people per sq. km of land area),EN.POP.DNST,15.30655928,15.51465391,15.72620186,15.94255223,Low
 Argentina,ARG,Population density (people per sq. km of land area),EN.POP.DNST,14.6454878,14.79261005,14.90430155,15.0771516,Low
 Canada,CAN,Population density (people per sq. km of land area),EN.POP.DNST,3.656136959,3.698120418,3.739467928,3.776245696,Low
