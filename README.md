@@ -31,10 +31,11 @@ Originally in analyzing the data, we noticed there were mainly two spikes across
 To analyze this data we looked at the reported cases per week in the top 16 countries from each region of North America, Central America, & South America. We then observed trends in which the outbreaks occurred. 
 
 ### Population Density & Region Proximity 
+Every year, influenza causes high mortality especially among the immunocompromised persons worldwide. They are a variety of reasons for this. One of the factors analyzed in the spread of H1N1 is the population component of affected regions.
 
+For this analysis, we looked at three different regions, North, Central, and South America. The population density for these three regions were then retrieved from the world bank database. From this data, we could get the population values of each country per year and the Influenza-Like Illness Activity level of each country per week. The population density was changed from the actual values to a rank of high, medium, and low and plotted on that scale. From this data we were able to make key observations concerning the population factors.
 
 ### Weather Analysis 
-
 One question we asked as we began to analyze the spread of AH1 & H1N1 is "does the weather contribute to the spread of an outbreak?"
 
 To analyze this, we broke up the data into three different sets: North America, Central America, and South America. We only pulled weather data from 16 countries that made of 99% of reported cases.
