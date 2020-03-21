@@ -1,12 +1,17 @@
-# Project 1
-## Collaborative Data Analysis 
+# Analyzing Attributes of Global Outbreak
+## An Analysis by: Kati Gremillion, Jorge Rueda, & Saheed Obitayo
 
-# Establishing the Correlation between the Global.....
-In this self made project, we were tasked with gathering the economic indicators and establishing the effetcs on the World GDP per capita growth annual percentage. For this we obtained the 
-ITC calcualtions based on the UN COMTRADE and ITC International trade center
-API from the WOrld Health Organization showing the global pandemic over the years.
+### Exploring the Factor of Global Outbreak
+In wake of the COVID-19 global pandemic, our team asked the question "What are the characteristics of a pandemic?" We concluded the best way to find this answer was by looking at the last major pandemic, which was AH1N1. We took it a step further and also looked at AH1 to see a bigger picture. 
+
+We brought up three topics that could characterize a pandemic:
+* Outbreak cycle trends
+* Outbreak relation to population density & region proximity 
+* Outbreak relation to the weather
 
 **Main Data Source: http://apps.who.int/flumart/Default?ReportNo=12**
+
+## Background
 
 The data set downloaded from the WHO - World Health Organization had the following cleaning and classification process. 
 The data requested is based on The Region of the Americas and takes into consideration the following years 2008-2009-2010. Our team considered those 3 years with the intention of only analyzing the initial patterns and impacts of the H1 and H1N1 influenza on the region of North America - Central and South America.
@@ -20,28 +25,28 @@ Bolivia, French Guiana, Guadeloupe, Jamaica, Guatemala, Martinique, Panama, Nica
 
 The remaining 15 countries represent 99% of the cases reported of H1 and H1N1 during the period of the analysis. 
 
-### Population Analysis
-Every year, influenza causes high mortality especially among the immunocompromised persons worldwide. They are a variety of reasons for this. One of the factors analyzed in the spread of H1N1 is the population component of affected regions.
+### Cycle Trends
+Originally in analyzing the data, we noticed there were mainly two spikes across reported cases for each year. To look further into this, we looked only at 2009, the main timeframe of reported cases.
 
-For this analysis, we looked at three different regions, North, Central, and South America. The population density for these three regions were then retrieved from the world bank database. From this data, we could get the population values of each country per year and the Influenza-Like Illness Activity level of each country per week. The population density was changed from the actual values to a rank of high, medium, and low and plotted on that scale. From this data we were able to make key observations concerning the population factors.
+To analyze this data we looked at the reported cases per week in the top 16 countries from each region of North America, Central America, & South America. We then observed trends in which the outbreaks occurred. 
+
+### Population Density & Region Proximity 
+
 
 ### Weather Analysis 
 
-One question we asked as we began to analyze the spread of H1N1 is "does the weather contribute to the spread of an outbreak?"
+One question we asked as we began to analyze the spread of AH1 & H1N1 is "does the weather contribute to the spread of an outbreak?"
 
-To analyze this, we broke up the data into three different sets: North America, Central America, and South America. The data was collected by finding the latitude and longitude boundaries per each region then generating a list of random cities within these boundaries and pulling the weather data from these cities.
+To analyze this, we broke up the data into three different sets: North America, Central America, and South America. We only pulled weather data from 16 countries that made of 99% of reported cases.
 
-We analyzed three parts of the weather: humidity, temperature, & wind speed. After analyzing weather data, we will cross reference the trends for the H1N1 pandemic outbreak and observe if there are correlations between the outbreak and weather patterns.
-
-The weather data we collected was pulled from 2020 because the free API would only allow that. However, we analyzed ![another data base](https://www.climate.gov/maps-data/data-snapshots/averagetemp-monthly-cmb-2009-08-00?theme=Temperature) that showed no significant change in weather between 2008 and 2020 so we concluded the data would be a valid reflection for the time period we are studying. 
-
-To pull this weather data, we used https://openweathermap.org/api
+We analyzed three parts of the weather: cold temperature, mild temperature, & hot temperature for 2008-2010. After analyzing weather data, we will cross reference the trends for the H1N1 pandemic outbreak and observe if there are correlations between the outbreak and weather patterns. Through our analysis we discovered there was a strong trend between weather pattern and outbreak cases.
 
 Supplimental Data:
 * https://www.cdc.gov/flu/weekly/#VirusCharacterization
 * https://gis.cdc.gov/grasp/fluview/Novel_Influenza.html
 * https://www.climate.gov/maps-data/data-snapshots/averagetemp-monthly-cmb-2009-08-00?theme=Temperature
 * https://data.worldbank.org/indicator/EN.POP.DNST
+* Palese P (December 2004). "Influenza: old and new threats". Nature Medicine. 10 (12 Suppl): S82–87. doi:10.1038/nm1141. PMID 15577936.
 
 
 
