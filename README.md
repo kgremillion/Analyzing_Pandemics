@@ -20,7 +20,7 @@ Bolivia, French Guiana, Guadeloupe, Jamaica, Guatemala, Martinique, Panama, Nica
 
 The remaining 15 countries represent 99% of the cases reported of H1 and H1N1 during the period of the analysis. 
 
-### Population Analsis
+### Population Analysis
 Every year, influenza causes high mortality especially among the immunocompromised persons worldwide. They are a variety of reasons for this. One of the factors analyzed in the spread of H1N1 is the population component of affected regions.
 
 For this analysis, we looked at three different regions, North, Central, and South America. The population density for these three regions were then retrieved from the world bank database. From this data, we could get the population values of each country per year and the Influenza-Like Illness Activity level of each country per week. The population density was changed from the actual values to a rank of high, medium, and low and plotted on that scale. From this data we were able to make key observations concerning the population factors.
