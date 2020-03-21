@@ -1,13 +1,10 @@
-# Analyzing Attributes of Global Outbreak
-## An Analysis by: Kati Gremillion, Jorge Rueda, & Saheed Obitayo
+# Project 1
+## Collaborative Data Analysis 
 
-### Exploring the Factor of Global Outbreak
-In wake of the COVID-19 global pandemic, our team asked the question "What are the characteristics of a pandemic?" We concluded the best way to find this answer was by looking at the last major pandemic, which was AH1N1. We took it a step further and also looked at AH1 to see a bigger picture. 
-
-We brought up three topics that could characterize a pandemic:
-* Outbreak cycle trends
-* Outbreak relation to population density & region proximity 
-* Outbreak relation to the weather
+# Establishing the Correlation between the Global.....
+In this self made project, we were tasked with gathering the economic indicators and establishing the effetcs on the World GDP per capita growth annual percentage. For this we obtained the 
+ITC calcualtions based on the UN COMTRADE and ITC International trade center
+API from the WOrld Health Organization showing the global pandemic over the years.
 
 **Main Data Source: http://apps.who.int/flumart/Default?ReportNo=12**
 
@@ -23,6 +20,10 @@ Bolivia, French Guiana, Guadeloupe, Jamaica, Guatemala, Martinique, Panama, Nica
 
 The remaining 15 countries represent 99% of the cases reported of H1 and H1N1 during the period of the analysis. 
 
+### Population Analsis
+Every year, influenza causes high mortality especially among the immunocompromised persons worldwide. They are a variety of reasons for this. One of the factors analyzed in the spread of H1N1 is the population component of affected regions.
+
+For this analysis, we looked at three different regions, North, Central, and South America. The population density for these three regions were then retrieved from the world bank database. From this data, we could get the population values of each country per year and the Influenza-Like Illness Activity level of each country per week. The population density was changed from the actual values to a rank of high, medium, and low and plotted on that scale. From this data we were able to make key observations concerning the population factors.
 
 ### Weather Analysis 
 
