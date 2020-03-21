@@ -1,10 +1,13 @@
-# Project 1
-## Collaborative Data Analysis 
+# Analyzing Attributes of Global Outbreak
+## An Analysis by: Kati Gremillion, Jorge Rueda, & Saheed Obitayo
 
-# Establishing the Correlation between the Global.....
-In this self made project, we were tasked with gathering the economic indicators and establishing the effetcs on the World GDP per capita growth annual percentage. For this we obtained the 
-ITC calcualtions based on the UN COMTRADE and ITC International trade center
-API from the WOrld Health Organization showing the global pandemic over the years.
+### Exploring the Factor of Global Outbreak
+In wake of the COVID-19 global pandemic, our team asked the question "What are the characteristics of a pandemic?" We concluded the best way to find this answer was by looking at the last major pandemic, which was AH1N1. We took it a step further and also looked at AH1 to see a bigger picture. 
+
+We brought up three topics that could characterize a pandemic:
+* Outbreak cycle trends
+* Outbreak relation to population density & region proximity 
+* Outbreak relation to the weather
 
 **Main Data Source: http://apps.who.int/flumart/Default?ReportNo=12**
 
