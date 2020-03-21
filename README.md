@@ -37,6 +37,7 @@ Supplimental Data:
 * https://www.cdc.gov/flu/weekly/#VirusCharacterization
 * https://gis.cdc.gov/grasp/fluview/Novel_Influenza.html
 * https://www.climate.gov/maps-data/data-snapshots/averagetemp-monthly-cmb-2009-08-00?theme=Temperature
+* https://data.worldbank.org/indicator/EN.POP.DNST
 
 
 
